@@ -1,7 +1,7 @@
 # PRODIGY_WD_03
 
 # ❌⭕ Tic-Tac-Toe Web Application
-Website Link:- 
+Website Link:- https://govardhanrajulapati073.github.io/PRODIGY_WD_03/
 
 ### 🎯 Internship Task - Prodigy Tech Info
 This project is part of an internship assignment from **Prodigy Tech Info**. It is a browser-based **Tic-Tac-Toe game** built using **HTML**, **CSS**, and **JavaScript**, allowing users to play against another player or an AI opponent.
